@@ -1,0 +1,4 @@
+_obj
+libs/*.a
+cmd/simple-test/simple-test
+HONGGFUZZ.REPORT.TXT

@@ -1,0 +1,4 @@
+[submodule "honggfuzz"]
+	path = honggfuzz
+	url = https://github.com/google/honggfuzz.git
+	shallow = true
